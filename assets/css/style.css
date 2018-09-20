@@ -1,0 +1,76 @@
+body  {
+   background-image: url("../images/paper1.jpg");
+    background-color: #cccccc;
+    width: 65%;
+    float: left;
+	max-width: 800px;
+	min-width: 480px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.instructionPanel {
+    background-color: beige;
+}
+
+.numberToMatch {
+    background-color: aqua;
+    float: right;
+    color: green;
+    float: left;
+    width: 50%;
+    float: left;
+    height: 150px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}
+
+.wins {
+    width: 35%;
+    height: 50px;
+    float: right;  
+    background-color: darkcyan;
+    margin: 20px; 
+}
+.losses {
+    width: 35%;
+    height: 50px; 
+    float: right;  
+    background-color: darkcyan;
+    margin: 20px; 
+}
+
+#crystal1 {
+    width: 100px;
+    height: 80px; 
+}
+
+#crystal2 {
+    width: 100px;
+    height: 80px; 
+}
+
+#crystal3 {
+    width: 100px;
+    height: 80px;  
+}
+
+#crystal4 {
+    width: 100px;
+    height: 80px; 
+}
+
+.yourScoreText {
+    padding: 20px;
+    width: 350px;
+    height: 25px; 
+    background-color: teal;
+    margin: 30px;
+}
+
+.displayScore {
+    width: 300px;
+    height: 200px; 
+    background-color: teal;
+    margin: 30px;
+}
